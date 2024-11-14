@@ -1,0 +1,45 @@
+1. Basic Array Creation and Output
+Task:
+Create an array (list) called fruits that contains the following items: "apple", "banana", "cherry", "date", and "elderberry". Write a program that prints out each fruit in the array using a for loop.
+
+Hint:
+Use a for loop to iterate through the array and print each item.
+
+2. Array with User Input
+Task:
+Create an empty array called numbers. Ask the user to input 5 numbers and store each number in the array. After the numbers are entered, print the entire array.
+
+Hint:
+Use a for loop to get input from the user and use append() to add items to the array.
+
+3. Find the Maximum Value
+Task:
+Create an array called scores that contains the following values: [56, 78, 90, 34, 67, 89, 95]. Write a program that finds and prints the maximum score in the array without using the max() function.
+
+Hint:
+Use a loop and a variable to keep track of the maximum value as you go through the array.
+
+4. Sum and Average of an Array
+Task:
+Create an array called expenses that stores the following monthly expenses: [1200, 850, 950, 1300, 900, 1000]. Write a program that calculates and prints the total sum and the average of these expenses.
+
+Hint:
+Use a loop to calculate the total sum, then divide by the number of items in the array to find the average.
+
+5. Check for Duplicates
+Task:
+Ask the user to input 5 names and store them in an array called names. Write a program that checks if there are any duplicate names in the array and prints a message if duplicates are found.
+
+Hint:
+You can use nested loops to compare each element with the others in the array.
+
+
+
+EXTENSION TASK
+
+Write a program that takes a sentence as input from the user and stores each word in an array (list). Your program should then:
+
+Count the total number of words in the sentence.
+Identify all the unique words in the array.
+Create a second array that stores the frequency (count) of each unique word.
+Display the list of unique words and their corresponding counts.
